@@ -7,6 +7,7 @@
         "https://azure.microsoft.com/ja-jp/updates/feed/",
         "https://azure.microsoft.com/en-us/blog/feed/",
         "https://azure.microsoft.com/ja-jp/status/feed/",
-        "http://b.hatena.ne.jp/hotentry/it.rss"
+        "http://b.hatena.ne.jp/hotentry/it.rss",
+        "http://menthas.com/top/rss"
     ]
 }
